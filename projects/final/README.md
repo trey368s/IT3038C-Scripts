@@ -15,4 +15,4 @@ cd final
 python final.py
 ```
 ## Summary
-Enter a ticker symbol to view a candlestick chart of the stock's most recent trading day.
+Enter a ticker symbol to view a candlestick chart of the stock's most recent trading day. I believe that this code can be useful because it can be used to fetch daily analysis on stock positions.
