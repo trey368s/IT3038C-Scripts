@@ -8,5 +8,11 @@ The matplotlib finance package is then used to display the fetched data, it is i
 ```
 pip install mplfinance
 ```
+In order to run the project starting from the root of the repository run the following commands:
+```
+cd projects
+cd final
+python final.py
+```
 ## Summary
 Enter a ticker symbol to view a candlestick chart of the stock's most recent trading day.
